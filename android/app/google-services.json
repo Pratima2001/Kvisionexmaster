@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424463071117",
+    "project_id": "kvisionex-master",
+    "storage_bucket": "kvisionex-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424463071117:android:8ed6dc1b59ab907600efc4",
+        "android_client_info": {
+          "package_name": "com.xvisionex.kvmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424463071117-44j9n4pl32fonmodi1d7cb7je2mr5i2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xvisionex.kvmaster",
+            "certificate_hash": "771e8a082f433e07fb3a3f3d310fc481c5279a90"
+          }
+        },
+        {
+          "client_id": "424463071117-s9ih6ff17eo7n4r9kcliebjea0pjnqom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5cz-zKs5HWebrigANkvx2yExhMgeg1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424463071117-s9ih6ff17eo7n4r9kcliebjea0pjnqom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
